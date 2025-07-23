@@ -23,10 +23,6 @@ This repository contains a Power BI dashboard project that visualizes mobile pho
 
 ![Dashboard Screenshot](dashboard.png)
 
-## 🎓 Learning Source
-
-This dashboard was created as part of my Power BI learning journey from **Skill Course by Satish Dhawale**. His step-by-step, real-world approach to teaching helped me confidently build dynamic and impactful dashboards.
-
 ## 📂 Files Included
 
 - `Mobile_Sales_Dashboard.pbix` – The Power BI dashboard project file
